@@ -3,13 +3,13 @@ function add(x, y) {
 }
 
 function sub(x, y) {
-  return x -= y ;
+  return y -= x ;
 }
 
 function mult(x, y) {
-  return x *= y ;
+  return y *= x ;
 }
 
 function dev(x, y) {
-  return x /= y ;
+  return y /= x ;
 }
