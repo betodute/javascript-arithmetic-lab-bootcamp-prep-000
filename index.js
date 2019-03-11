@@ -13,5 +13,3 @@ function mult(x, y) {
 function dev(x, y) {
   return x / y ;
 }
-
-function inc() 
