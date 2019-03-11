@@ -19,3 +19,7 @@ var n = 10
 function inc(n) {
   return ++n ;
 }
+
+function dec(n) {
+  return --n ;
+}
