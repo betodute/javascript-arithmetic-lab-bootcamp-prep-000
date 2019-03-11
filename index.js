@@ -2,14 +2,14 @@ function add(x, y) {
   return x += y ;
 }
 
-function sub(x, y) {
-  return y -= x ;
+function subtract(x, y) {
+  return x - y ;
 }
 
-function mult(x, y) {
-  return y *= x ;
+function multiply(x, y) {
+  return x * y ;
 }
 
-function dev(x, y) {
-  return y /= x ;
+function divide(x, y) {
+  return x / y ;
 }
