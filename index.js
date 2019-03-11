@@ -17,4 +17,5 @@ function divide(x, y) {
 var n = 10;
 
 function inc() {
-  n
+  return n++ ;
+}
