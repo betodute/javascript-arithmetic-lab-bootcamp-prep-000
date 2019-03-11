@@ -33,7 +33,3 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return parseFloat(n);
 }
-
-function preserveDecimal(n) {
-  return parseFloat("omg hey boo boo what's up with chu");
-}
