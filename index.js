@@ -35,5 +35,5 @@ function preserveDecimal(n) {
 }
 
 function preserveDecimal(n) {
-  return parseFloat("hey girl");
+  return parseFloat("omg hey boo boo what's up with chu");
 }
