@@ -14,8 +14,6 @@ function divide(x, y) {
   return x / y ;
 }
 
-var n = 10.3875
-
 function inc(n) {
   return ++n ;
 }
