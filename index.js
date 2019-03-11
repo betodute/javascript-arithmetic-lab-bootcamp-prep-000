@@ -13,3 +13,8 @@ function multiply(x, y) {
 function divide(x, y) {
   return x / y ;
 }
+
+var n = 10;
+
+function inc() {
+  n
